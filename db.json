@@ -4,6 +4,11 @@
       { "id": 2, "title": "Post 2" },
       { "id": 3, "title": "Post 3" }
     ],
+    "authors": [
+      { "id": 1, "name": "Brenda" },
+      { "id": 2, "name": "Joel" },
+      { "id": 3, "name": "Smith" }
+    ],    
     "comments": [
       { "id": 1, "body": "some comment", "postId": 1 },
       { "id": 2, "body": "some comment", "postId": 1 }
